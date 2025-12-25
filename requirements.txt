@@ -1,0 +1,11 @@
+neo4j
+langchain
+langchain-community
+langchain_openai
+langchain_groq
+python-dotenv
+ipykernel
+streamlit
+pandas 
+python-dotenv
+langchain_neo4j
